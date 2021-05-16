@@ -5,14 +5,15 @@
 # Commit body...
 
 # ==================== Emojis ====================
-# 🔖  :bookmark: Version Tag
-# ✨  :sparkles: New Feature
+# ✅  :white_check_mark: Tests
+# 👷  :construction_worker: Build
 # 🐛  :bug: Bug Fix
+# 📝  :memo: Documentation
+# ⚡️  :zap: Improve Performance
+# ✨  :sparkles: New Feature
 # ♻️   :recycle: Refactoring
-# 📝  :memo: Documentation）
-# 🎨  :art: UI Fix
-# ⚡️   :zap: Improve Performance
-# 🔧  :wrench: ツール（Tooling）
-# ✅  :white_check_mark: Add/Update Tests
 # ⚰️   :coffin: Remove
+# 🩹  :adhesive_bandage: Simple Fix
+# 🎨  :art: UI Fix
+# 🔖  :bookmark: Version Tag
 # 🚧  :construction: WIP
