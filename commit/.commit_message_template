@@ -1,0 +1,18 @@
+
+# ==================== Format ====================
+# :emoji: Subject
+#
+# Commit body...
+
+# ==================== Emojis ====================
+# 🔖  :bookmark: Version Tag
+# ✨  :sparkles: New Feature
+# 🐛  :bug: Bug Fix
+# ♻️   :recycle: Refactoring
+# 📝  :memo: Documentation）
+# 🎨  :art: UI Fix
+# ⚡️   :zap: Improve Performance
+# 🔧  :wrench: ツール（Tooling）
+# ✅  :white_check_mark: Add/Update Tests
+# ⚰️   :coffin: Remove
+# 🚧  :construction: WIP
